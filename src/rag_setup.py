@@ -20,7 +20,6 @@ def setup_rag():
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     blocos = text_splitter.split_documents(documentos)
     
-    print(f"🧠 A gerar embeddings para {len(blocos)} blocos e a criar a base vetorial...")
     embeddings = GoogleGenerativeAIEmbeddings(
         model="gemini-embedding-001",
         google_api_key=api_key
@@ -31,7 +30,6 @@ def setup_rag():
         persist_directory=chroma_dir
     )
     
-    print(f"✅ Base vetorial RAG criada com sucesso em: {chroma_dir}")
 
 if __name__ == "__main__":
     setup_rag()
