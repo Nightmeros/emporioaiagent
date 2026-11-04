@@ -1,6 +1,5 @@
 .env
 Projeto Agente de Atendimento
-README.md
 venv/
 env/
 data/processed/
