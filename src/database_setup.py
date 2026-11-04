@@ -24,9 +24,9 @@ def setup_database():
         try:
             df = pd.read_csv(file_path)
             df.to_sql(table_name, conn, if_exists='replace', index=False)
-            print(f"✅ Tabela '{table_name}' populada com {len(df)} registros.")
+            print(f"Tabela '{table_name}' populada com {len(df)} registros.")
         except Exception as e:
-            print(f"❌ Erro ao processar {file}: {e}")
+            print(f"Erro ao processar {file}: {e}")
             
     conn.close()
 

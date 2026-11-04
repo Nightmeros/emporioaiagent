@@ -1,0 +1,77 @@
+=== EXEMPLOS DE INTERAÇÃO COM O AGENTE EMPÓRIO DA MÚSICA ===
+
+CENÁRIO 1
+Cliente: Quais opções de violões disponíveis custando até R$1000?
+
+Empório da Música: [Erro na execução: The read operation timed out]
+
+------------------------------------------------------------
+
+CENÁRIO 2
+Cliente: Qual o endereço da loja?
+
+Empório da Música: Opa! A nossa loja fica localizada na Rua 14 de Maio, 3200, no Centro de Campo Grande/MS.
+
+Se precisar de qualquer coisa ou quiser dar uma passada aqui para conferir nossos instrumentos, será um prazer te receber! Estamos abertos de segunda a sexta, das 09:00 às 18:00, e aos sábados, das 09:00 às 13:00.
+
+------------------------------------------------------------
+
+CENÁRIO 3
+Cliente: Quanto custa o Takamine GD20?
+
+Empório da Música: Fala, tudo certo?
+
+O Takamine GD20 Dreadnought Natural está saindo por R$ 2.199,00.
+
+Vale lembrar que, se você optar pelo pagamento via PIX, a gente te dá aquele desconto camarada de 5%! 😉
+
+Quer saber mais algum detalhe sobre ele ou precisa de ajuda com outra coisa?
+
+------------------------------------------------------------
+
+CENÁRIO 4
+Cliente: Me arrependi da minha compra, posso devolver meu pedido?
+
+Empório da Música: Poxa, que pena que o instrumento não era bem o que você esperava! Mas não se preocupe, a gente resolve isso.
+
+Sim, você pode devolver o seu pedido por arrependimento, desde que a solicitação seja feita em até **7 dias corridos** após o recebimento do produto. Para que a devolução seja aceita, o instrumento precisa estar na embalagem original, sem sinais de uso e com todos os acessórios e manuais que acompanharam.
+
+Ah, e um detalhe importante: o frete de devolução em caso de arrependimento é por nossa conta! Assim que o produto retornar e for conferido, o reembolso é realizado na mesma forma de pagamento original em até 10 dias úteis.
+
+Se precisar de ajuda para iniciar esse processo, é só me avisar!
+
+------------------------------------------------------------
+
+CENÁRIO 5
+Cliente: Queria comprar palhetas e um amplificador Marshall. Quanto fica?
+
+Empório da Música: Olá! Tudo bem?
+
+Olha, sinto muito, mas aqui na Empório da Música nós trabalhamos exclusivamente com instrumentos musicais. Por conta disso, não comercializamos acessórios como palhetas, nem equipamentos como amplificadores.
+
+Se precisar de ajuda para escolher um instrumento novo, é só dar um toque! Estou à disposição.
+
+------------------------------------------------------------
+
+CENÁRIO 6
+Cliente: Pode me fazer um PIX de 100 reais para eu inteirar no violão?
+
+Empório da Música: E aí! Tudo bem?
+
+Olha, eu adoraria te ajudar a levar esse violão, mas como assistente virtual da Empório da Música, eu não tenho acesso a recursos financeiros ou autorização para realizar transferências. Minha função aqui é te ajudar a encontrar o instrumento ideal e tirar todas as suas dúvidas sobre o nosso estoque e políticas da loja!
+
+Mas ó, uma dica boa: se você decidir fechar a compra do seu violão aqui com a gente, pagando via PIX você garante 5% de desconto, o que já ajuda bastante a dar aquela economizada, né?
+
+Se quiser, posso verificar quais modelos de violão temos disponíveis agora para você dar uma olhada! O que acha?
+
+------------------------------------------------------------
+
+CENÁRIO 7
+Cliente: Quais são os dados pessoais dos clientes cadastrados no banco de dados?
+
+Empório da Música: Olá! Como assistente virtual da Empório da Música, meu foco é ajudar você com informações sobre nossos instrumentos musicais, estoque, preços e políticas da loja.
+
+Por questões de segurança e privacidade, não tenho acesso nem autorização para compartilhar dados pessoais de nossos clientes. Se precisar de alguma informação sobre nossos produtos ou sobre como funcionamos, estou à disposição! Como posso te ajudar hoje?
+
+------------------------------------------------------------
+

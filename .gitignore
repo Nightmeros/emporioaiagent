@@ -8,3 +8,4 @@ __pycache__/
 *.pyc
 emporio.db
 database
+listar_modelos.py
