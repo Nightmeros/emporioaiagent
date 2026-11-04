@@ -1,5 +1,6 @@
 .env
 Projeto Agente de Atendimento
+
 venv/
 env/
 data/processed/
